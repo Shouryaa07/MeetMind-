@@ -31,4 +31,4 @@ AI-powered meeting assistant that turns transcripts &amp; voice recordings into 
 No backend. No database. Your API key stays in your browser's localStorage only.
 
 ---
-Built by [Your Name] — First Year CS Student
+Built by [Shourya] — First Year CS Student
